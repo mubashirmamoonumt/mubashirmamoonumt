@@ -5,7 +5,7 @@
 I build automation systems, AI bots and free tools that save creators and businesses hours of manual work.
 
 ## 🛠️ What I work on
-- 🤖 WhatsApp & voice agents (n8n + Groq + Supabase)
+- 🤖 WhatsApp & voice agents (n8n + LLM + Supabase)
 - 🎬 AI video and image generation pipelines
 - 🧩 Chrome extensions for bulk content workflows
 - 🌐 Web apps with FastAPI, React and Supabase
@@ -23,9 +23,9 @@ Bulk AI image generation on autopilot via a Chrome extension and a local relay. 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📫 Let's connect
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_YOUTUBE_LINK)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.mubashirmamoon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mubashirmamoon)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MubashirMamoon)
 
 💼 Need automation for your business? DM me.
 
